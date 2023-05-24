@@ -38,7 +38,7 @@ o todas activadas o desactivadas
 #include <sys/time.h> // Tiempo
 
 // El número de neuronas es N^2
-#define N 20
+#define N 30
 #define P 50 // Cantidad de estados anteriores que la red recuerda
 
 using namespace std;
