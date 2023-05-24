@@ -39,7 +39,7 @@ o todas activadas o desactivadas
 
 // El número de neuronas es N^2
 #define N 20
-#define P 10 // Cantidad de estados anteriores que la red recuerda
+#define P 50 // Cantidad de estados anteriores que la red recuerda
 
 using namespace std;
 
