@@ -85,7 +85,7 @@ int main(void) {
     fich_patronesrecordados.open("patronesrecordados.dat");
 
     // Itero muchas veces el programa
-    for(int niteraciones=0; niteraciones<30; niteraciones++) {
+    for(int niteraciones=0; niteraciones<100; niteraciones++) {
 
         // Itero en el número de patrones desde 1 hasta P
         for(int npatrones=1; npatrones<=P; npatrones++) {
