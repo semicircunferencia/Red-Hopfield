@@ -11,10 +11,11 @@ error=np.zeros(50)
 
 for i in range(50):
     npatronesrec[i]=np.mean(data[:,i]) # numero de patrones recordados de media
-    error[i]=np.sqrt(npatronesrec[i]*(1-npatronesrec[i])/len(data[:,i]))
+    error[i]=np.std(data[:,i])/np.sqrt(len(data[:,i]))
 
 
 npatrones=np.linspace(1,50,50) # numero de patrones almacenados
+print(np.c_[npatrones, npatronesrec])
 
 ax = plt.subplot()
 
