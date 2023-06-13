@@ -1,0 +1,1 @@
+Promedio del número de patrones recordados para cada cantidad de patrones almacenados. El tamaño de la red es N^2.

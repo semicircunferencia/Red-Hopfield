@@ -1,0 +1,1 @@
+Número de patrones recordados para cada número de patrones almacenados (columnas, de 1 a 50) y en cada ejecución (filas, de 1 a 100). El tamaño de la red es N^2.

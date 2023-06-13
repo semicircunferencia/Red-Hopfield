@@ -1,0 +1,1 @@
+En cada caso (patrón inicial aleatorio o deformado) y para cada temperatura, "neuronas.dat" almacena la evolución de la red, mientras que "solapamiento.dat" muestra el solapamiento con cada patrón.

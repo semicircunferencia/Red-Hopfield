@@ -1,0 +1,1 @@
+En cada caso (patrón inicial aleatorio o deformado) y para cada temperatura T, se muestra la evolución de la red en vídeo, así como las gráficas del solapamiento en función del tiempo y de T.
